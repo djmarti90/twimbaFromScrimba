@@ -1,0 +1,4 @@
+- auf github hochladen
+- add the ability to reply to a specific tweet
+- save tweets, likes and retweets to localStorage
+- allow users to delete a tweet
